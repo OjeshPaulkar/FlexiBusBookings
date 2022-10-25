@@ -6,7 +6,6 @@
       <class name="flexiBus.FlexiNBusBookin_Test">
         <methods>
           <include name="bookTicketsForOneWayTrip"/>
-          <include name="bookTicketsForTwoWayTrip"/>
         </methods>
       </class> <!-- flexiBus.FlexiNBusBookin_Test -->
     </classes>
